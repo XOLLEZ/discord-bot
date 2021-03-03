@@ -8,20 +8,11 @@
     "discord.js": "^12.3.1",
     "discord.js-pagination": "^1.0.3",
     "fs": "^0.0.1-security"
-    
-  },
-  "author": "vsousa14",
-  "license": "ISC",
-  
   },
   "devDependencies": {},
-
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
-  "scripts": {
-    "start": "node index.js"
-  
+  "author": "vsousa14",
+  "license": "ISC"
 }
