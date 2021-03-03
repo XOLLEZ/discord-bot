@@ -13,10 +13,12 @@
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scripts": {
-    "start": "node index.js"
+
   },
   "author": "vsousa14",
   "license": "ISC"
+  
+  },
+  "scripts": {
+    "start": "node index.js"
 }
